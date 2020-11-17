@@ -1,7 +1,7 @@
 virtualenv==15.1.0
 pandas==0.23.1
 Flask==0.12.2
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 httplib2==0.18.0
 gspread==3.0.1
 google_api_python_client==1.7.4
