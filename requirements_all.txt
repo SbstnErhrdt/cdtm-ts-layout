@@ -66,7 +66,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 fasteners==0.14.1
 filelock==2.0.12
-Flask==0.12.2
+Flask==1.0
 Flask-Cors==3.0.3
 floyd-cli==0.11.7
 ftfy==4.4.3
