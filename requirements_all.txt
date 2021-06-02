@@ -187,7 +187,7 @@ pyLDAvis==2.1.2
 pylint==1.7.4
 pymagnitude==0.1.22
 pyodbc==4.0.17
-pyOpenSSL==17.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 Pyphen==0.9.4
 PySocks==1.6.7
