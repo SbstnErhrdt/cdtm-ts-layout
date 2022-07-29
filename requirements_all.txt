@@ -123,7 +123,7 @@ MarkupSafe==1.0
 marshmallow==2.15.3
 matplotlib==2.2.2
 mccabe==0.6.1
-mistune==0.8.1
+mistune==2.0.3
 monotonic==1.5
 mpmath==0.19
 msgpack-numpy==0.4.1
