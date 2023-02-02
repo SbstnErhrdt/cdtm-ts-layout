@@ -71,7 +71,7 @@ Flask-Cors==3.0.9
 floyd-cli==0.11.7
 ftfy==4.4.3
 funcy==1.10.3
-future==0.16.0
+future==0.18.3
 fuzzywuzzy==0.16.0
 gast==0.2.0
 gensim==3.4.0
