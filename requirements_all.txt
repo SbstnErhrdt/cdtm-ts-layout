@@ -158,7 +158,7 @@ pep8==1.7.0
 pexpect==4.2.1
 pickleshare==0.7.4
 Pillow==9.3.0
-pipreqs==0.4.9
+pipreqs==0.4.12
 pkginfo==1.4.1
 plac==0.9.6
 ply==3.10
