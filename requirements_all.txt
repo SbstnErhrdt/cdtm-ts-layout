@@ -75,7 +75,7 @@ future==0.18.3
 fuzzywuzzy==0.16.0
 gast==0.2.0
 gensim==3.4.0
-gevent==1.2.2
+gevent==23.9.1
 glob2==0.5
 gmpy2==2.0.8
 google-api-python-client==1.6.7
